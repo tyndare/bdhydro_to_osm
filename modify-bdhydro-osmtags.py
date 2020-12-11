@@ -24,7 +24,7 @@ import fiona.crs
 
 import osm
 
-SOURCE = "BDOrtho IGN Hydrographie 3.0 2019-12"
+SOURCE = "BDOrtho IGN Hydrographie 3.0 2020-09"
 VERBOSE = True
 
 same_value = lambda v:v
